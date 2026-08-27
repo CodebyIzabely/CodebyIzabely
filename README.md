@@ -13,7 +13,7 @@
 ###
 
 ###
-<h6 data-importer="text" align="left">Hii everyone!! My name is Izabely, but you can call me Iza! 😁<br><br>👩🏼‍💻20 y/o computer Science graduate <br><br>🤖AI & Data lover - always curious and always learning. I love exploring how technology can turn ideas and data into smart, useful solutions. <br><br>Here, you'll find some of my projects and my jouney in technology.</h6>
+<h5 data-importer="text" align="left">Hii everyone!! My name is Izabely, but you can call me Iza! 😁<br><br>👩🏼‍💻20 y/o computer Science graduate <br><br>🤖AI & Data lover - always curious and always learning. I love exploring how technology can turn ideas and data into smart, useful solutions. <br><br>Here, you'll find some of my projects and my jouney in technology.</h5>
 
 ###
 <h3 data-importer="text" align="left">Technology I'm exploring</h3>
